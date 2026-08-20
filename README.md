@@ -1,12 +1,7 @@
 - 👋 Hi, I’m @Divyankar7
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on further data science projects
+- 😄 Pronouns:  He/Him
+- ⚡ Fun fact:  Nothing else needed to know for now atleast
 
-<!---
-Divyankar7/Divyankar7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
